@@ -1,6 +1,10 @@
 body {
     background-color: black;
     color: white;
+    background-image: url(assets/thor-hemsworth.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
 }
 
 img {
@@ -21,3 +25,15 @@ footer p {
 
 color: mediumblue;
 }
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
